@@ -1,5 +1,7 @@
 # Novel-CNN-Architecture-with-Residual-Learning-and-Deep-Supervision
+
 Abstract:
+
 One of the most investigated methods to increase the accuracy of convolutional neural networks (CNN) is by increasing its depth.
 However, increasing the depth also increases the number of parameters, which makes convergence of back-propagation very slow
 and prone to overfitting. Convolutional networks with deep supervision (CNDS) add auxiliary branch to addresses the problem 
@@ -10,3 +12,7 @@ thereby it has very little impact over complexity of the network. Results of our
 scene dataset support our hypothesis that adding the residual connections to the CNDS will enhance the accuracy of the network.
 Our experiments show that the proposed network improves upon other recently introduced state of the art networks both in terms
 of top-1 and top-5 classification accuracy.
+
+Please cite the original paper:
+Novel CNN Architecture with Residual Learning and Deep Supervision for Large-Scale Image Categorization (IEEE Dec. 2016) 
+http://ieeexplore.ieee.org/document/7777858/

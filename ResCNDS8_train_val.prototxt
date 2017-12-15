@@ -1,3 +1,5 @@
+__author__ = 'Hussam_Qassim'
+
 name: "Residual_CNDS"
 
 layer {

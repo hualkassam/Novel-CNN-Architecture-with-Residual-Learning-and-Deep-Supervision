@@ -14,5 +14,4 @@ Our experiments show that the proposed network improves upon other recently intr
 of top-1 and top-5 classification accuracy.
 
 Please cite the original paper:
-Novel CNN Architecture with Residual Learning and Deep Supervision for Large-Scale Image Categorization (IEEE Dec. 2016) 
-http://ieeexplore.ieee.org/document/7777858/
+Novel CNN Architecture with Residual Learning and Deep Supervision for Large-Scale Image Categorization (Accepted in IEEE 7th Annual Ubiquitous Computing, Electronics & Mobile Communication Conference (UEMCON), New York, NY, USA Oct. 2016) http://ieeexplore.ieee.org/document/7777858/
